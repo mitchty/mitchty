@@ -1,10 +1,11 @@
 ## Hola ola allo hallo こんにちは etc....
 
-This is my Github profile, there are many like it but this is my own. Here's some wacky wasm shenanigans.
-
-<iframe src="mitchty.github.io" width="600" height="400" title="wasm shenanigans"></iframe>
+This is my Github profile, there are many like it but this is my own.
 
 <!--
+This didn't work, bummer dude.
+<iframe src="mitchty.github.io" width="600" height="400" title="wasm shenanigans"></iframe>
+
 **mitchty/mitchty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
